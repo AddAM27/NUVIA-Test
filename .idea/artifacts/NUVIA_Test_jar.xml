@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NUVIA-Test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NUVIA_Test_jar</output-path>
+    <root id="archive" name="NUVIA-Test.jar">
+      <element id="module-output" name="NUVIA-Test" />
+    </root>
+  </artifact>
+</component>
