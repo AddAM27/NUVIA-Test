@@ -9,6 +9,7 @@ Instructions on how to use the program:
 Technologies used
  - As the programming language Java was used for its versatility and the fact it is the company's prefered language
  - HTML was used for the output file
+ - A 1 line batch script is used to run the compiled .jar file
  
  Design choices
  - Code is split into 3 basic classes + a custom Exception class
